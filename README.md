@@ -43,7 +43,7 @@ SEO / GEO experiment exploring referral codes and affiliate traffic.
 
 ## Stack
 
-Symfony • Angular • TypeScript • APIs • PostgreSQL
+Symfony • Angular • TypeScript • APIs • MCP • Gemini • Claude
 
 ---
 
